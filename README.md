@@ -35,7 +35,7 @@ The primary objective of this analysis is to understand the dynamics of the Airb
 * Power BI – Used to design interactive dashboards and reports.
 
 * Excel/CSV – Used for initial data handling and preparation.
-* 
+
 🚀 **How to Use**
 
 * Download the CSV File from  Kaggle https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
