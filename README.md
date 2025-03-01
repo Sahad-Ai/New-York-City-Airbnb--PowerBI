@@ -35,16 +35,20 @@ The primary objective of this analysis is to understand the dynamics of the Airb
 * Power BI – Used to design interactive dashboards and reports.
 
 * Excel/CSV – Used for initial data handling and preparation.
-🚀 How to Use
-Download the Power BI file (.pbix) from the repository.
-Open it using Power BI Desktop to access interactive reports and visualizations.
-Explore the dashboards to analyze pricing, availability, host behavior, and review trends.
-Filter and interact with the data to gain deeper insights into specific neighborhood groups, room types, or time frames.
-For developers and analysts, the raw dataset can be further processed using Python or other data science tools for advanced modeling and predictive analytics.
+* 
+🚀 **How to Use**
 
-📄 Conclusion
+* Download the CSV File from  Kaggle https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
+*  Download the Power BI file (.pbix) from the repository.
+* Open it using Power BI Desktop to access interactive reports and visualizations.
+* Explore the dashboards to analyze pricing, availability, host behavior, and review trends.
+* Filter and interact with the data to gain deeper insights into specific neighborhood groups, room types, or time frames.
+* For developers and analysts, the raw dataset can be further processed using Python or other data science tools for advanced modeling and predictive analytics.
+
+📄 **Conclusion**
+
 This project provides a data-driven perspective on the Airbnb market in New York City, helping:
 
-Hosts optimize pricing, availability, and engagement strategies.
-Guests make informed booking decisions based on price trends and host activity.
-Market Analysts predict future demand and assess competitive dynamics in the short-term rental sector.
+* Hosts optimize pricing, availability, and engagement strategies.
+* Guests make informed booking decisions based on price trends and host activity.
+* Market Analysts predict future demand and assess competitive dynamics in the short-term rental sector.
